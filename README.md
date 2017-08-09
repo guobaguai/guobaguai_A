@@ -1,2 +1,1 @@
-# guobaguai_A
-the first program of guobaguai
+201808091847
